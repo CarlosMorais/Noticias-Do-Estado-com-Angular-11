@@ -4,7 +4,7 @@ Aplicação em Angular 11 com mapa do Brasil em que quando você clica no estado
 # Demonstração
 Link para visualizar/testar: https://carlosmorais.github.io/Noticias-Do-Estado-com-Angular-11/dist/prod/
 
-![alt text](src/assets/print.png)
+<a href="https://carlosmorais.github.io/Noticias-Do-Estado-com-Angular-11/dist/prod/" target="_blank">![alt text](src/assets/print.png)</a>
 
 # Noticias-Do-Estado-com-Angular-11
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
