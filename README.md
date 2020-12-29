@@ -3,8 +3,7 @@ Link para visualizar/testar: https://carlosmorais.github.io/Calculadora-Com-Angu
 
 ![alt text](src/assets/print.png)
 
-# HeatmapBrasil
-
+# Noticias-Do-Estado-com-Angular-11
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
