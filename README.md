@@ -1,5 +1,5 @@
 # Demonstração
-Link para visualizar/testar: https://carlosmorais.github.io/Calculadora-Com-Angular-11//dist/calculadora/
+Link para visualizar/testar: https://carlosmorais.github.io/Noticias-Do-Estado-com-Angular-11/dist/Noticias-do-Estado-com-Angular-11/
 
 ![alt text](src/assets/print.png)
 
