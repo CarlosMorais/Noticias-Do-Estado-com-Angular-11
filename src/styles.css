@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    width: 100% !important;
+    margin: 0px;
+    padding: 0px;
+}
+
+#ifr {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 7000px;
+}
+
+.model-green a {
+    text-decoration: none !important;
+}
