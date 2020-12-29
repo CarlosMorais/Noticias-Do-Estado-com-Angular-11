@@ -1,5 +1,5 @@
 # Descrição
-Aplicação em Angular 11 com mapa do Brasil em que quando você clica no estado aparece as notícias do mesmo. Ao invés de aparecer notícias de um estado você poderá implementar para aparecer informações sobre filiais ou lojas de uma empresa, etc.
+Aplicação em Angular 11 com mapa do Brasil em que quando você clica no estado aparece as notícias do mesmo. Você também poderá implementar para aparecer informações sobre filiais ou lojas de uma empresa, etc.
 
 # Demonstração
 Link para visualizar/testar: https://carlosmorais.github.io/Noticias-Do-Estado-com-Angular-11/dist/prod/
